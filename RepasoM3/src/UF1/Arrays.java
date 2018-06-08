@@ -1,3 +1,4 @@
+package UF1;
 import java.util.Random;
 
 public class Arrays {
